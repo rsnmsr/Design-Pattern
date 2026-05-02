@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="observer_pattern" />
         <module name="strategy_pattern" />
+        <module name="decorator_pattern" />
       </profile>
     </annotationProcessing>
   </component>
